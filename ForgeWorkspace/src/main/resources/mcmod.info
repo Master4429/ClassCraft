@@ -1,6 +1,4 @@
-[
-{
-<<<<<<< HEAD
+
   "modid": "classcraft",
 
     "name": "ClassCraft",
@@ -17,26 +15,10 @@
 
     "authorList": ["Riys Hassam (Master4429)"],
 
-    "credits": "The Authors and all those who helped on GitHub",
+    "credits": "The ClassCraftTeam",
 
-    "logoFile": "",
+    "logoFile": "classcraft.png",
 
     "screenshots": [],
 
     "dependencies": []
-=======
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
->>>>>>> 0200469d6b100c8b1e2be68e6086085f7e65e14e
-}
-]
