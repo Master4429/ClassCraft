@@ -11,7 +11,7 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 
-public class BlockBase extends Blcok implements IHasModel {
+public class BlockBase extends Block implements IHasModel {
 	public BlockBase(String Name, Material material)
 	{
 		super(material);
